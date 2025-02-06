@@ -12,6 +12,6 @@ The main function of this project is to share a Christmas message that has anima
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): dynamicity of the page
 
 ## 📁 Project access
-You can view the hosted page by clicking [here](https://arturcolen.github.io/ChristmasCard/).
+You can view the hosted page by clicking [here](https://christmas-card-artur-bomtempo.vercel.app/).
 
 **Observation:** This program is designed to be accessed on computers (it is not responsive), so if it is used on mobile devices, the page layout will be misconfigured and some functions will not run.
